@@ -1,4 +1,4 @@
 test-repo
 =========
 
-just a rookie test repo
+just a rookie test repo!
